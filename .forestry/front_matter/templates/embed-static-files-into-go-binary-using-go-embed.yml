@@ -2,3 +2,5 @@
 label: embed static files into go binary using go embed
 hide_body: false
 fields: []
+pages:
+- content/embed-static-files-into-go-binary-using-goembed.md
